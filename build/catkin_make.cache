@@ -1,0 +1,2 @@
+apriltags_ros/apriltags:apriltags_ros/apriltags_ros:realsense-ros-2.2.7/realsense2_camera:realsense-ros-2.2.7/realsense2_description:task
+-DCATKIN_DEVEL_PREFIX=/home/arg/apriltag/devel -DCMAKE_INSTALL_PREFIX=/home/arg/apriltag/install -G Unix Makefiles
